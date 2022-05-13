@@ -464,13 +464,14 @@ a.join-wthree:hover {
     font-weight: 500;
 }
 .heading-agileinfo span:after {
-    content: '';
+    content:;
     background: #212121;
     height: 2px;
     width: 70px;
     position: absolute;
-    top: 132%;
-    right: 47%;
+    top: 130%;
+    right: 48.5%;
+
 }
 span.nnn {
     color: #fff;
@@ -1259,6 +1260,7 @@ h3.agileits-icons-title {
 	.bs-glyphicons li {
 		width: 31.33%;
 	}
+
 }
 @media (max-width: 384px){
 	.icon-box {
